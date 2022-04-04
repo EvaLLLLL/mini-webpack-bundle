@@ -1,5 +1,5 @@
 {
-  "name": "my-own-webpack",
+  "name": "mini-webpack-bundle",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
